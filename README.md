@@ -1,4 +1,4 @@
-# Dark Themer
+# Terminal Dark Theme
 
 > A dark theme for macOS Terminal.app
 
@@ -9,18 +9,18 @@
 **Install using Git**
 
 ```shell
-$ git clone https://github.com/toFrankie/terminal-theme.git
+$ git clone https://github.com/toFrankie/terminal-dark-theme.git
 ```
 
 **Install manually**
 
-Download [GitHub ZIP](https://github.com/toFrankie/terminal-theme/archive/refs/heads/main.zip) and unzip them.
+Download [GitHub ZIP](https://github.com/toFrankie/terminal-dark-theme/archive/refs/heads/main.zip) and unzip them.
 
 ## ⚙️ Activating
 
 1. Choose Terminal > Preferences, then click Profiles.
 2. Click the Action pop-up menu, choose Import.
-3. Select the `Dark-Themer.terminal` file, then click Open.
+3. Select the `Dark-Theme.terminal` file, then click Open.
 4. Click Default. ❤️
 
 ## 🎨 Color Palette
